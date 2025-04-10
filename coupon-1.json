@@ -1,0 +1,14 @@
+{
+  "1": {
+    "name": "Checkers General Coupon",
+    "description": "R100 cash coupon on any item",
+    "image": "https://www.checkers.co.za/medias/checkers-logo.svg?context=bWFzdGVyfGltYWdlc3w2NTY2fGltYWdlL3N2Zyt4bWx8aW1hZ2VzL2g5ZS9oN2MvODg2NTY1MDgwMjcxOC5zdmd8MTQwMWY4NTIwMmI0NDZhM2RhMTI3MTYxYzE2ZDkwOWMyNDUwMDYyYjRjZTkwOTE5NmM2NWI1OGM4OGVjOWI2Yg",
+    "attributes": [
+      { "trait_type": "Cash Value", "value": "100" },
+      { "trait_type": "Coupon Type", "value": "CASH" },
+      { "trait_type": "Discount Percentage", "value": "0" },
+      { "trait_type": "Exchangeable", "value": "False" },
+      { "trait_type": "Expiry Date", "value": "1744269856" }
+    ]
+  }
+}
